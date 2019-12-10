@@ -91,3 +91,7 @@ ul li:nth-child(1):hover a{
     box-shadow: 0px 0px 10px rgb(255, 0, 102,0.3), 0px 0px 10px rgb(255, 0, 102,1);
     background-color: rgb(255, 0, 102,0.5);
 }
+marquee{
+    color: #ff0066;
+ font-family:arial;
+}
